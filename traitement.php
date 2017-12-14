@@ -1,7 +1,7 @@
 <?php
     try
     {
-        $bdd = new PDO('mysql:host=localhost;dbname=nicolaf_db', 'nicolaf','Hqr318zntI');
+        $bdd = new PDO('mysql:host=localhost;dbname=nicolaf_db', 'nicolaf','');
         //$bdd = new PDO('mysql:host=localhost;dbname=carte_db', 'root','');
         
         // PDO display error
